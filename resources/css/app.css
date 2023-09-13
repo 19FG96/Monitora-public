@@ -1,0 +1,18 @@
+/* Custom Styles to change background and text color */
+body {
+    background-color: #992b2b; /* Replace this color code with your desired background color */
+    color: #333; /* Replace this color code with your desired text color */
+}
+
+.blog-header {
+    background-color: #007bff; /* Replace this color code with your desired background color for the blog header */
+    color: #fff; /* Replace this color code with your desired text color for the blog header */
+}
+
+.nav-scroller {
+    background-color: #f7f7f7; /* Replace this color code with your desired background color for the nav scroller */
+}
+
+.link-secondary {
+    color: #333; /* Replace this color code with your desired text color for the links */
+}
